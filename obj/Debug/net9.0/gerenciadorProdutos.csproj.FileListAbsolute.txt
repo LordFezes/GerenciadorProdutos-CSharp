@@ -1,0 +1,15 @@
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\bin\Debug\net9.0\gerenciadorProdutos.exe
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\bin\Debug\net9.0\gerenciadorProdutos.deps.json
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\bin\Debug\net9.0\gerenciadorProdutos.runtimeconfig.json
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\bin\Debug\net9.0\gerenciadorProdutos.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\bin\Debug\net9.0\gerenciadorProdutos.pdb
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\obj\Debug\net9.0\gerenciadorProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\obj\Debug\net9.0\gerenciadorProdutos.AssemblyInfoInputs.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\obj\Debug\net9.0\gerenciadorProdutos.AssemblyInfo.cs
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\obj\Debug\net9.0\gerenciadorProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\obj\Debug\net9.0\gerenciadorProdutos.sourcelink.json
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\obj\Debug\net9.0\gerenciadorProdutos.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\obj\Debug\net9.0\refint\gerenciadorProdutos.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\obj\Debug\net9.0\gerenciadorProdutos.pdb
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\obj\Debug\net9.0\gerenciadorProdutos.genruntimeconfig.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\gerenciadorprodutos\obj\Debug\net9.0\ref\gerenciadorProdutos.dll
